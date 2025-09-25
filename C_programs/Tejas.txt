@@ -1,0 +1,28 @@
+DSA:-
+    1.Linear: (Sequencial)
+        Array      
+        Linked list
+        Stack
+        Queue
+    2.Non-Linear:(Non-Sequencial)
+         Tree
+        cGraph
+
+1.Linked List:-
+                        --------TYPES OF LINKED LIST------
+                        A.Singly linked list
+                        B.Doubly linked list
+                        C.Circular linked list
+                        ----------------------------------
+        A. Singly Linked list:-
+                1.Addtion of node:
+                                a.Add at first     (Done)
+                                b.Add at last      (Done)
+                                c.Add sorted       (Done)
+                                d.Add at nth position
+                2.Deletion of node:
+                                a.Delete at first    (Done)
+                                b.Delete at last     (Done)
+                                c.Delete based on data.(Done)
+                                d.Delete nth node
+                                
