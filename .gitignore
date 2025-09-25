@@ -1,0 +1,11 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.vcxproj.user
+*.db
+*.opendb
+
+# Build folders
+Debug/
+Release/
+x64/
